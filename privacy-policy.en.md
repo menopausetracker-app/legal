@@ -1,8 +1,11 @@
+---
+lang: en
+---
 # Privacy Policy — Menopause Tracker
 
-Last updated: 10.09.2026
+Last updated: October 10, 2026
 
-Menopause Tracker ("the app") is published on Google Play by, an individual developer ("we", "us"). Contact: menopausetracker.app@gmail.com.
+Menopause Tracker ("the app") is made and published on Google Play by an independent developer ("we", "us"). Contact: menopausetracker.app@gmail.com.
 
 ## The short version
 - Your health records stay on your phone. We never receive them.
