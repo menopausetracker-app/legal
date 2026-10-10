@@ -1,7 +1,7 @@
 ---
 lang: en
 ---
-# Terms of Use — Menopause Tracker
+# Terms of Use - Menopause Tracker
 
 Last updated: October 10, 2026
 
