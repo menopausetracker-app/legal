@@ -1,10 +1,8 @@
 # Terms of Use — Menopause Tracker
 
-_Before publishing: replace [developer name] and [privacy policy URL], and set the date._
+Last updated: 10.09.2026
 
-Last updated: [date]
-
-These terms apply to the Menopause Tracker app published on Google Play by [developer name], an individual developer ("we"). By using the app you agree to them.
+These terms apply to the Menopause Tracker app published on Google Play, an individual developer ("we"). By using the app you agree to them.
 
 ## 1. Not medical advice
 The app is a personal diary. It helps you record and review what you logged. It does not give medical advice, make a diagnosis or replace a doctor. Notes in the app (for example about bleeding) only suggest talking to a doctor. If you're worried about a symptom, contact a medical professional; in an emergency, call your local emergency number.
