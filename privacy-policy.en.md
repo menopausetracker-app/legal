@@ -1,7 +1,7 @@
 ---
 lang: en
 ---
-# Privacy Policy — Menopause Tracker
+# Privacy Policy - Menopause Tracker
 
 Last updated: October 10, 2026
 
@@ -14,7 +14,7 @@ Menopause Tracker ("the app") is made and published on Google Play by an indepen
 - Anonymous usage statistics are off unless you turn them on.
 
 ## Data stored on your phone
-Everything you log — check-ins, hot flashes, bleeding, medications, doses, side effects, your profile answers and the optional name for the doctor report — is stored only in the app's storage on your device. We have no server that receives it.
+Everything you log - check-ins, hot flashes, bleeding, medications, doses, side effects, your profile answers and the optional name for the doctor report - is stored only in the app's storage on your device. We have no server that receives it.
 
 This data leaves your phone only when you choose to:
 - **PDF report.** When you share or print the report, it goes wherever you send it.
@@ -30,7 +30,7 @@ To check whether you have Premium, the app uses RevenueCat, Inc. (USA). RevenueC
 
 This happens even if you never buy anything, so the app can tell you're on the free plan and restore purchases on a new phone. RevenueCat processes this data on our behalf. See revenuecat.com/privacy.
 
-## Usage statistics (PostHog) — only if you turn them on
+## Usage statistics (PostHog) - only if you turn them on
 Menu → Privacy → "Share anonymous usage statistics" is **off** by default. If you turn it on, the app sends a short list of events to PostHog (EU servers, Germany): for example "app opened", "check-in completed", "report created", "paywall shown", "purchase completed", and once a day the number of yesterday's hot flashes as a range (0, 1–3, 4–9, 10+).
 
 Events never include your symptoms, scores, bleeding, medication names, notes or dates. They carry a random anonymous ID and basic device data (device model, OS and app version, language, time zone). We've turned off IP address storage. You can turn statistics off at any time; sending stops immediately.
